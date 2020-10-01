@@ -822,6 +822,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8399362921975384280, guid: fd9954614031fc043bac4a39677b11d1, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8399362921975384281, guid: fd9954614031fc043bac4a39677b11d1, type: 3}
       propertyPath: m_Size.x
       value: 0.9
