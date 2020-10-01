@@ -1,7 +1,19 @@
 fileFormatVersion: 2
-guid: e1732632b08e77248984fa1342a9211b
+guid: 60d37a66eedd0fb4bbf68dc045015676
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3567304621392905061
+    second: armored_skeleton_slash 1_0
+  - first:
+      213: -1332164408268149395
+    second: armored_skeleton_slash 1_1
+  - first:
+      213: -5426181529653679937
+    second: armored_skeleton_slash 1_2
+  - first:
+      213: 7519818918987935681
+    second: armored_skeleton_slash 1_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -99,7 +111,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: armored_skeleton_slash 1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 194
+        width: 30
+        height: 46
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c3444e8536e7ec0800000000000000
+      internalID: -3567304621392905061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_skeleton_slash 1_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 129
+        width: 31
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d22ce5783338de0800000000000000
+      internalID: -1332164408268149395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_skeleton_slash 1_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 64
+        width: 30
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8e43ed5a452b4b0800000000000000
+      internalID: -5426181529653679937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_skeleton_slash 1_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 31
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa9811773cb5860800000000000000
+      internalID: 7519818918987935681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
