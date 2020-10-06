@@ -182,6 +182,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MonsterSoundTutorial
       objectReference: {fileID: 0}
+    - target: {fileID: 219337920487974230, guid: b4804f7e850175c45a5f9e7e040232e7, type: 3}
+      propertyPath: Mute
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 219337920487974231, guid: b4804f7e850175c45a5f9e7e040232e7, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.2
