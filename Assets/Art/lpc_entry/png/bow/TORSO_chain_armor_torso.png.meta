@@ -1,7 +1,193 @@
 fileFormatVersion: 2
 guid: 1822da65504db8d48993d67b68a1566c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7214210146444408205
+    second: TORSO_chain_armor_torso_0
+  - first:
+      213: 1311692762877993135
+    second: TORSO_chain_armor_torso_1
+  - first:
+      213: -528224230318535147
+    second: TORSO_chain_armor_torso_2
+  - first:
+      213: 4218833157043982528
+    second: TORSO_chain_armor_torso_3
+  - first:
+      213: -2710567871968845162
+    second: TORSO_chain_armor_torso_4
+  - first:
+      213: 7378717802834067732
+    second: TORSO_chain_armor_torso_5
+  - first:
+      213: -5366988312338003746
+    second: TORSO_chain_armor_torso_6
+  - first:
+      213: -4505739820309540872
+    second: TORSO_chain_armor_torso_7
+  - first:
+      213: 5442830818938085089
+    second: TORSO_chain_armor_torso_8
+  - first:
+      213: -876833224878570844
+    second: TORSO_chain_armor_torso_9
+  - first:
+      213: 2322772797486279848
+    second: TORSO_chain_armor_torso_10
+  - first:
+      213: -5537743300821184419
+    second: TORSO_chain_armor_torso_11
+  - first:
+      213: 7866710355504062635
+    second: TORSO_chain_armor_torso_12
+  - first:
+      213: 2823460403455781710
+    second: TORSO_chain_armor_torso_13
+  - first:
+      213: 1513436957974741864
+    second: TORSO_chain_armor_torso_14
+  - first:
+      213: 3487377863642920739
+    second: TORSO_chain_armor_torso_15
+  - first:
+      213: -6161325589152849699
+    second: TORSO_chain_armor_torso_16
+  - first:
+      213: -2440910163821230951
+    second: TORSO_chain_armor_torso_17
+  - first:
+      213: -7379062957849482162
+    second: TORSO_chain_armor_torso_18
+  - first:
+      213: 7965029705696434930
+    second: TORSO_chain_armor_torso_19
+  - first:
+      213: -4755232615434210179
+    second: TORSO_chain_armor_torso_20
+  - first:
+      213: 2056350761291441733
+    second: TORSO_chain_armor_torso_21
+  - first:
+      213: -5454466749693999932
+    second: TORSO_chain_armor_torso_22
+  - first:
+      213: 3935835273249468536
+    second: TORSO_chain_armor_torso_23
+  - first:
+      213: -3364483008276546471
+    second: TORSO_chain_armor_torso_24
+  - first:
+      213: 1048833405657688793
+    second: TORSO_chain_armor_torso_25
+  - first:
+      213: -6704391839594684671
+    second: TORSO_chain_armor_torso_26
+  - first:
+      213: 4564319531056739396
+    second: TORSO_chain_armor_torso_27
+  - first:
+      213: -3316270980903731801
+    second: TORSO_chain_armor_torso_28
+  - first:
+      213: 9143010494307485726
+    second: TORSO_chain_armor_torso_29
+  - first:
+      213: -3342542726604299166
+    second: TORSO_chain_armor_torso_30
+  - first:
+      213: 4693447258427731445
+    second: TORSO_chain_armor_torso_31
+  - first:
+      213: -1119251250825826129
+    second: TORSO_chain_armor_torso_32
+  - first:
+      213: -6495913432431769837
+    second: TORSO_chain_armor_torso_33
+  - first:
+      213: -3544568879533536073
+    second: TORSO_chain_armor_torso_34
+  - first:
+      213: -1049703492978219540
+    second: TORSO_chain_armor_torso_35
+  - first:
+      213: -6155576969089955391
+    second: TORSO_chain_armor_torso_36
+  - first:
+      213: -8584535521732997988
+    second: TORSO_chain_armor_torso_37
+  - first:
+      213: 6836796282132729467
+    second: TORSO_chain_armor_torso_38
+  - first:
+      213: -4474309757318469376
+    second: TORSO_chain_armor_torso_39
+  - first:
+      213: 6654955175339309366
+    second: TORSO_chain_armor_torso_40
+  - first:
+      213: 8612023641603916678
+    second: TORSO_chain_armor_torso_41
+  - first:
+      213: -4269791820397201913
+    second: TORSO_chain_armor_torso_42
+  - first:
+      213: -8984178669130691952
+    second: TORSO_chain_armor_torso_43
+  - first:
+      213: -7125913088776888696
+    second: TORSO_chain_armor_torso_44
+  - first:
+      213: 3905868572194940445
+    second: TORSO_chain_armor_torso_45
+  - first:
+      213: -1164095365752282445
+    second: TORSO_chain_armor_torso_46
+  - first:
+      213: -1880753441128023030
+    second: TORSO_chain_armor_torso_47
+  - first:
+      213: 3193083425902691320
+    second: TORSO_chain_armor_torso_48
+  - first:
+      213: -13794980912979941
+    second: TORSO_chain_armor_torso_49
+  - first:
+      213: 1466398289432862946
+    second: TORSO_chain_armor_torso_50
+  - first:
+      213: 1297024373324439172
+    second: TORSO_chain_armor_torso_51
+  - first:
+      213: 1104805331391134755
+    second: TORSO_chain_armor_torso_52
+  - first:
+      213: 7685560257072450102
+    second: TORSO_chain_armor_torso_53
+  - first:
+      213: -1888261931930560189
+    second: TORSO_chain_armor_torso_54
+  - first:
+      213: 4130359662842049075
+    second: TORSO_chain_armor_torso_55
+  - first:
+      213: -8898929774293911067
+    second: TORSO_chain_armor_torso_56
+  - first:
+      213: -504097057634308767
+    second: TORSO_chain_armor_torso_57
+  - first:
+      213: -7708433625207797106
+    second: TORSO_chain_armor_torso_58
+  - first:
+      213: 4644232569834045522
+    second: TORSO_chain_armor_torso_59
+  - first:
+      213: 8201509459220540856
+    second: TORSO_chain_armor_torso_60
+  - first:
+      213: -7885135395295011655
+    second: TORSO_chain_armor_torso_61
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +227,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -73,9 +259,1335 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 200
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a8926281af1eb90800000000000000
+      internalID: -7214210146444408205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 199
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa02bc14e91143210800000000000000
+      internalID: 1311692762877993135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 200
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e0c167cde5ba8f0800000000000000
+      internalID: -528224230318535147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 198
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c01f3c676e4c8a30800000000000000
+      internalID: 4218833157043982528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 198
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692e5b3b1e0226ad0800000000000000
+      internalID: -2710567871968845162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 198
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41186cf5fb8766660800000000000000
+      internalID: 7378717802834067732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 198
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed88b61c090a485b0800000000000000
+      internalID: -5366988312338003746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 198
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0e1081856871c0800000000000000
+      internalID: -4505739820309540872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 198
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee5a5fdac1d88b40800000000000000
+      internalID: 5442830818938085089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 198
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a24adfd3dcd4d3f0800000000000000
+      internalID: -876833224878570844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 198
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2c108d852c3020800000000000000
+      internalID: 2322772797486279848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 198
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501141eecbf523b0800000000000000
+      internalID: -5537743300821184419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 198
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e4b2836b2c2d60800000000000000
+      internalID: 7866710355504062635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 137
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bec511742fe2720800000000000000
+      internalID: 2823460403455781710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 137
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863480e05eec00510800000000000000
+      internalID: 1513436957974741864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 137
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3273ff7a0b7a56030800000000000000
+      internalID: 3487377863642920739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 137
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0250155039e7aa0800000000000000
+      internalID: -6161325589152849699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 137
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9948bc47325202ed0800000000000000
+      internalID: -2440910163821230951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 151
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c6326f55d489990800000000000000
+      internalID: -7379062957849482162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 137
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa58791158798e60800000000000000
+      internalID: 7965029705696434930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 137
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7431bc6125020eb0800000000000000
+      internalID: -4755232615434210179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 137
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54661645f10a98c10800000000000000
+      internalID: 2056350761291441733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 137
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c44f41e367dd44b0800000000000000
+      internalID: -5454466749693999932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_23
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 137
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870bc7cf355ee9630800000000000000
+      internalID: 3935835273249468536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_24
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 151
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cb6de9784fe41d0800000000000000
+      internalID: -3364483008276546471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_25
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 137
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2accec643e8e00800000000000000
+      internalID: 1048833405657688793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 137
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f5eeda42735f2a0800000000000000
+      internalID: -6704391839594684671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_27
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 137
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444b3024e68b75f30800000000000000
+      internalID: 4564319531056739396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 73
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adfb4cfc1d3af1d0800000000000000
+      internalID: -3316270980903731801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 73
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18cdd25a9f72ee70800000000000000
+      internalID: 9143010494307485726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 73
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2646f268917ec91d0800000000000000
+      internalID: -3342542726604299166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdad922a69722140800000000000000
+      internalID: 4693447258427731445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa07d1cdaee9770f0800000000000000
+      internalID: -1119251250825826129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 89
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31747386621e9d5a0800000000000000
+      internalID: -6495913432431769837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bccf7d42692fcec0800000000000000
+      internalID: -3544568879533536073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 93
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5eb851c34be61f0800000000000000
+      internalID: -1049703492978219540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_36
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 73
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c941d93c5ff29aa0800000000000000
+      internalID: -6155576969089955391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_37
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 93
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cc1610d6a9dd880800000000000000
+      internalID: -8584535521732997988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_38
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 92
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e8b36eefd21ee50800000000000000
+      internalID: 6836796282132729467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_39
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 73
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009e7fb4bfe08e1c0800000000000000
+      internalID: -4474309757318469376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_40
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 73
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6393f36f8762b5c50800000000000000
+      internalID: 6654955175339309366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_41
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 73
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6834113afdd048770800000000000000
+      internalID: 8612023641603916678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 73
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7063b5036f6aeb4c0800000000000000
+      internalID: -4269791820397201913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 73
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ac2d3c919c15380800000000000000
+      internalID: -8984178669130691952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 73
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e952beccbab1d90800000000000000
+      internalID: -7125913088776888696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_45
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 73
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16aa01b5ce643630800000000000000
+      internalID: 3905868572194940445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 73
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b228a7be6d48dfe0800000000000000
+      internalID: -1164095365752282445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 9
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c787fb5b836e5e0800000000000000
+      internalID: -1880753441128023030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 9
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f30e1b457c105c20800000000000000
+      internalID: 3193083425902691320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 9
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10aff6b98dfecff0800000000000000
+      internalID: -13794980912979941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 9
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0e2e49971b95410800000000000000
+      internalID: 1466398289432862946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 23
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed60dabc4fff110800000000000000
+      internalID: 1297024373324439172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 9
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb68b689e055f00800000000000000
+      internalID: 1104805331391134755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 9
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac9ae755898aa60800000000000000
+      internalID: 7685560257072450102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_54
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 9
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349d26007cb8bc5e0800000000000000
+      internalID: -1888261931930560189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_55
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 9
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3327d42da3cf15930800000000000000
+      internalID: 4130359662842049075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_56
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 9
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e97012d486a08480800000000000000
+      internalID: -8898929774293911067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_57
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 23
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d236b95661109f0800000000000000
+      internalID: -504097057634308767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_58
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a00da7574260590800000000000000
+      internalID: -7708433625207797106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_59
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 9
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25002438ae0a37040800000000000000
+      internalID: 4644232569834045522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_60
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 9
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bda8d2566d91d170800000000000000
+      internalID: 8201509459220540856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO_chain_armor_torso_61
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 9
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd49d922f529290800000000000000
+      internalID: -7885135395295011655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
