@@ -6,14 +6,30 @@ public class PlayerMovement : MonoBehaviour
 {
     [Range(5f,20f)]
     public float speed = 10f;
-
+    private Animator anim;
+    [Range(10f,100f)]
+    public AnimationCurve objScale;
+    float timer, lerpTime = 3f;
+    Vector2 scale, endScale = new Vector3(2,2,1);
     void Start()
     {
+        scale = transform.localScale;
+        anim = GetComponent<Animator>();
       
     }
     void Update()
     {
-        transform.Translate(GetInput().normalized*speed*Time.deltaTime);
+        timer += Time.deltaTime;
+        if(timer > lerpTime)
+        {
+            timer = lerpTime;
+        }
+        float lerpRatio = timer / lerpTime;
+        transform.localScale = Vector3.Lerp(scale,endScale,lerpRatio);
+        Vector3 movement = GetInput();
+        transform.Translate(movement.normalized*speed*Time.deltaTime);
+        anim.SetFloat("MoveX",movement.x);
+        anim.SetFloat("MoveY",movement.y);
 
     }
 
