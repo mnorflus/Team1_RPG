@@ -1,7 +1,325 @@
 fileFormatVersion: 2
 guid: 34782566a05e4e24c8aa287938805d10
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6137497340667947389
+    second: adt_minotaur_shaman_0
+  - first:
+      213: 2728684582270336516
+    second: adt_minotaur_shaman_1
+  - first:
+      213: -705981012191946160
+    second: adt_minotaur_shaman_2
+  - first:
+      213: 6231652491731889969
+    second: adt_minotaur_shaman_3
+  - first:
+      213: 6610930500223834560
+    second: adt_minotaur_shaman_4
+  - first:
+      213: -4743656190009273273
+    second: adt_minotaur_shaman_5
+  - first:
+      213: 6057083108893874218
+    second: adt_minotaur_shaman_6
+  - first:
+      213: 7882003467894844215
+    second: adt_minotaur_shaman_7
+  - first:
+      213: -4177212027422744967
+    second: adt_minotaur_shaman_8
+  - first:
+      213: 6013207991602528108
+    second: adt_minotaur_shaman_9
+  - first:
+      213: -787190970412524097
+    second: adt_minotaur_shaman_10
+  - first:
+      213: 9042297499284442928
+    second: adt_minotaur_shaman_11
+  - first:
+      213: -6440860183255541872
+    second: adt_minotaur_shaman_12
+  - first:
+      213: 2650002809371356426
+    second: adt_minotaur_shaman_13
+  - first:
+      213: -7570966771762420461
+    second: adt_minotaur_shaman_14
+  - first:
+      213: -5934524399604464433
+    second: adt_minotaur_shaman_15
+  - first:
+      213: 5096811292828413518
+    second: adt_minotaur_shaman_16
+  - first:
+      213: 8161678285208040962
+    second: adt_minotaur_shaman_17
+  - first:
+      213: -7349895636942177977
+    second: adt_minotaur_shaman_18
+  - first:
+      213: 1839511291712224080
+    second: adt_minotaur_shaman_19
+  - first:
+      213: -8735568793338564513
+    second: adt_minotaur_shaman_20
+  - first:
+      213: 8276421202195546928
+    second: adt_minotaur_shaman_21
+  - first:
+      213: -3072334943217476461
+    second: adt_minotaur_shaman_22
+  - first:
+      213: 346420205181416815
+    second: adt_minotaur_shaman_23
+  - first:
+      213: 7531155664818339202
+    second: adt_minotaur_shaman_24
+  - first:
+      213: -3983260958713808582
+    second: adt_minotaur_shaman_25
+  - first:
+      213: -3826512587043067708
+    second: adt_minotaur_shaman_26
+  - first:
+      213: 7376619397998429306
+    second: adt_minotaur_shaman_27
+  - first:
+      213: 6329220368885906432
+    second: adt_minotaur_shaman_28
+  - first:
+      213: -4443071190889036603
+    second: adt_minotaur_shaman_29
+  - first:
+      213: 6743441383408338643
+    second: adt_minotaur_shaman_30
+  - first:
+      213: -4935527096474439594
+    second: adt_minotaur_shaman_31
+  - first:
+      213: -1150411101532346778
+    second: adt_minotaur_shaman_32
+  - first:
+      213: -2905798235694929077
+    second: adt_minotaur_shaman_33
+  - first:
+      213: -1035123732501115236
+    second: adt_minotaur_shaman_34
+  - first:
+      213: 4289182418214640800
+    second: adt_minotaur_shaman_35
+  - first:
+      213: 9120885223708824066
+    second: adt_minotaur_shaman_36
+  - first:
+      213: 1294485464827789388
+    second: adt_minotaur_shaman_37
+  - first:
+      213: -8343451235824463281
+    second: adt_minotaur_shaman_38
+  - first:
+      213: 1206341737179336816
+    second: adt_minotaur_shaman_39
+  - first:
+      213: -8372593038851565219
+    second: adt_minotaur_shaman_40
+  - first:
+      213: 852346412697674930
+    second: adt_minotaur_shaman_41
+  - first:
+      213: -848112585149984224
+    second: adt_minotaur_shaman_42
+  - first:
+      213: 2582503678532118039
+    second: adt_minotaur_shaman_43
+  - first:
+      213: -365178357997296807
+    second: adt_minotaur_shaman_44
+  - first:
+      213: -7144336264205309516
+    second: adt_minotaur_shaman_45
+  - first:
+      213: 4990110822004297882
+    second: adt_minotaur_shaman_46
+  - first:
+      213: -621025618151257394
+    second: adt_minotaur_shaman_47
+  - first:
+      213: -3521290223520628855
+    second: adt_minotaur_shaman_48
+  - first:
+      213: -1298734861956858688
+    second: adt_minotaur_shaman_49
+  - first:
+      213: 1602922326445898117
+    second: adt_minotaur_shaman_50
+  - first:
+      213: -3697399466830453347
+    second: adt_minotaur_shaman_51
+  - first:
+      213: -373142754991428006
+    second: adt_minotaur_shaman_52
+  - first:
+      213: 4684504153441338318
+    second: adt_minotaur_shaman_53
+  - first:
+      213: 4759887384152970204
+    second: adt_minotaur_shaman_54
+  - first:
+      213: 4105737642647410518
+    second: adt_minotaur_shaman_55
+  - first:
+      213: 4660372824987351971
+    second: adt_minotaur_shaman_56
+  - first:
+      213: 7859827218186157108
+    second: adt_minotaur_shaman_57
+  - first:
+      213: 4183506120281259766
+    second: adt_minotaur_shaman_58
+  - first:
+      213: 2791410562091293267
+    second: adt_minotaur_shaman_59
+  - first:
+      213: -698218451717348256
+    second: adt_minotaur_shaman_60
+  - first:
+      213: 2727826108824187265
+    second: adt_minotaur_shaman_61
+  - first:
+      213: -3071888833247207045
+    second: adt_minotaur_shaman_62
+  - first:
+      213: 6600628898206982499
+    second: adt_minotaur_shaman_63
+  - first:
+      213: 5308045758384648949
+    second: adt_minotaur_shaman_64
+  - first:
+      213: 6544365951221294674
+    second: adt_minotaur_shaman_65
+  - first:
+      213: 4202309828240328574
+    second: adt_minotaur_shaman_66
+  - first:
+      213: 8761030996425195640
+    second: adt_minotaur_shaman_67
+  - first:
+      213: 2187094240089237043
+    second: adt_minotaur_shaman_68
+  - first:
+      213: 6658676976845220096
+    second: adt_minotaur_shaman_69
+  - first:
+      213: 3975278349723944136
+    second: adt_minotaur_shaman_70
+  - first:
+      213: -3386025075106908274
+    second: adt_minotaur_shaman_71
+  - first:
+      213: -1703743948412556325
+    second: adt_minotaur_shaman_72
+  - first:
+      213: 6057732770915911237
+    second: adt_minotaur_shaman_73
+  - first:
+      213: -2357003276029657295
+    second: adt_minotaur_shaman_74
+  - first:
+      213: 5827405824947661968
+    second: adt_minotaur_shaman_75
+  - first:
+      213: -8409840881338778177
+    second: adt_minotaur_shaman_76
+  - first:
+      213: 1215389017709360800
+    second: adt_minotaur_shaman_77
+  - first:
+      213: -7557892750058473365
+    second: adt_minotaur_shaman_78
+  - first:
+      213: -6248197230339326046
+    second: adt_minotaur_shaman_79
+  - first:
+      213: -8909182343449994078
+    second: adt_minotaur_shaman_80
+  - first:
+      213: -3397096461629651633
+    second: adt_minotaur_shaman_81
+  - first:
+      213: 905057962964594174
+    second: adt_minotaur_shaman_82
+  - first:
+      213: 5713540262800023575
+    second: adt_minotaur_shaman_83
+  - first:
+      213: 7585510863929505189
+    second: adt_minotaur_shaman_84
+  - first:
+      213: 4563118642868679363
+    second: adt_minotaur_shaman_85
+  - first:
+      213: -7324335332921437809
+    second: adt_minotaur_shaman_86
+  - first:
+      213: 6612839035939151515
+    second: adt_minotaur_shaman_87
+  - first:
+      213: -3077705272347323221
+    second: adt_minotaur_shaman_88
+  - first:
+      213: 4257458643185176544
+    second: adt_minotaur_shaman_89
+  - first:
+      213: -8066868451287509722
+    second: adt_minotaur_shaman_90
+  - first:
+      213: -5443440731055248838
+    second: adt_minotaur_shaman_91
+  - first:
+      213: -93792072076108399
+    second: adt_minotaur_shaman_92
+  - first:
+      213: -6654696047222120477
+    second: adt_minotaur_shaman_93
+  - first:
+      213: -779880526874825889
+    second: adt_minotaur_shaman_94
+  - first:
+      213: 5331813700025789011
+    second: adt_minotaur_shaman_95
+  - first:
+      213: -3102850843663488888
+    second: adt_minotaur_shaman_96
+  - first:
+      213: 5643184953767727977
+    second: adt_minotaur_shaman_97
+  - first:
+      213: -1940641477361059516
+    second: adt_minotaur_shaman_98
+  - first:
+      213: -8845750459728701738
+    second: adt_minotaur_shaman_99
+  - first:
+      213: 1107230054771358344
+    second: adt_minotaur_shaman_100
+  - first:
+      213: 5800974965459405111
+    second: adt_minotaur_shaman_101
+  - first:
+      213: 4886684027530630680
+    second: adt_minotaur_shaman_102
+  - first:
+      213: 5384887784611051118
+    second: adt_minotaur_shaman_103
+  - first:
+      213: 2898271476569660650
+    second: adt_minotaur_shaman_104
+  - first:
+      213: -8455159494386283455
+    second: adt_minotaur_shaman_105
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +359,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -73,9 +391,2259 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1409
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386159fbfaa33daa0800000000000000
+      internalID: -6137497340667947389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1406
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40efe4e9b2c3ed520800000000000000
+      internalID: 2728684582270336516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1409
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad026820ad336f0800000000000000
+      internalID: -705981012191946160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1414
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f6b5dace64b7650800000000000000
+      internalID: 6231652491731889969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_4
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1407
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c913a4834ebebb50800000000000000
+      internalID: 6610930500223834560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_5
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1405
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7441ae104d52b2eb0800000000000000
+      internalID: -4743656190009273273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_6
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1407
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2853a8eef41f0450800000000000000
+      internalID: 6057083108893874218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_7
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1414
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73be446b460826d60800000000000000
+      internalID: 7882003467894844215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_8
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1427
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e5af9facf8706c0800000000000000
+      internalID: -4177212027422744967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_9
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1407
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f320c1fc4337350800000000000000
+      internalID: 6013207991602528108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_10
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1429
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd9a2eabf55315f0800000000000000
+      internalID: -787190970412524097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_11
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1422
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f804edaa1bc7d70800000000000000
+      internalID: 9042297499284442928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1267
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0979819d9c77d96a0800000000000000
+      internalID: -6440860183255541872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1269
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ded5ac383b6c420800000000000000
+      internalID: 2650002809371356426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1267
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315a0d275d58ee690800000000000000
+      internalID: -7570966771762420461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1270
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc400b2408554ada0800000000000000
+      internalID: -5934524399604464433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1274
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eac34edd28bb640800000000000000
+      internalID: 5096811292828413518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_17
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1271
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20638d0782b144170800000000000000
+      internalID: 8161678285208040962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_18
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1271
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7493edf0cdceff990800000000000000
+      internalID: -7349895636942177977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_19
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1271
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bb3de06c1478910800000000000000
+      internalID: 1839511291712224080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_20
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1271
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50311a277605c680800000000000000
+      internalID: -8735568793338564513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_21
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1267
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338068ab31cbd270800000000000000
+      internalID: 8276421202195546928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1125
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c9086a5afdc55d0800000000000000
+      internalID: -3072334943217476461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1131
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f653bd8575bbec400800000000000000
+      internalID: 346420205181416815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1137
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dfaa5ec2a048860800000000000000
+      internalID: 7531155664818339202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1135
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a397e24234d98b8c0800000000000000
+      internalID: -3983260958713808582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_26
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1181
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8acb8631f75eac0800000000000000
+      internalID: -3826512587043067708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1126
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74c3fc62440f5660800000000000000
+      internalID: 7376619397998429306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_28
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1182
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c7c905468e5d750800000000000000
+      internalID: 6329220368885906432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_29
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1130
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c48943da4a0752c0800000000000000
+      internalID: -4443071190889036603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_30
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1125
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d609bdb534859d50800000000000000
+      internalID: 6743441383408338643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_31
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1132
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650735b514c718bb0800000000000000
+      internalID: -4935527096474439594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_32
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1134
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666af73c23be800f0800000000000000
+      internalID: -1150411101532346778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_33
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1173
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b627476e78ca7d0800000000000000
+      internalID: -2905798235694929077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_34
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1177
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ec1b9137082a1f0800000000000000
+      internalID: -1035123732501115236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_35
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1168
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acd88e2fac368b30800000000000000
+      internalID: 4289182418214640800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_36
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1131
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202164459c4e39e70800000000000000
+      internalID: 9120885223708824066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_37
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1129
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4087f9fbafe6f110800000000000000
+      internalID: 1294485464827789388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_38
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1125
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4293e77e4b163c80800000000000000
+      internalID: -8343451235824463281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_39
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1127
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0705d422b69cdb010800000000000000
+      internalID: 1206341737179336816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_40
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1128
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d591856bdf29ecb80800000000000000
+      internalID: -8372593038851565219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 991
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b46c62eb8424db00800000000000000
+      internalID: 852346412697674930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_42
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1001
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d898e816ea34f0800000000000000
+      internalID: -848112585149984224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_43
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1052
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716eb06b965e6d320800000000000000
+      internalID: 2582503678532118039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_44
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1059
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95329ebd730aeeaf0800000000000000
+      internalID: -365178357997296807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_45
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 995
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e91025083adc90800000000000000
+      internalID: -7144336264205309516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 987
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9016679a5f604540800000000000000
+      internalID: 4990110822004297882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_47
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 999
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca4da99d7ca167f0800000000000000
+      internalID: -621025618151257394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_48
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1054
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3ff3c23dd12fc0800000000000000
+      internalID: -3521290223520628855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_49
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1048
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc35a72687f9fde0800000000000000
+      internalID: -1298734861956858688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_50
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 993
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589b95efc59be3610800000000000000
+      internalID: 1602922326445898117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_51
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 999
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d952ada46c230bcc0800000000000000
+      internalID: -3697399466830453347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_52
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1038
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ea93e24a452daf0800000000000000
+      internalID: -373142754991428006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_53
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 997
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec386be35b3b20140800000000000000
+      internalID: 4684504153441338318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_54
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 994
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd31d4f5b548e0240800000000000000
+      internalID: 4759887384152970204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_55
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 995
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657d2f202a28af830800000000000000
+      internalID: 4105737642647410518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_56
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 994
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab31428468fca040800000000000000
+      internalID: 4660372824987351971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_57
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 987
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cbee73637b31d60800000000000000
+      internalID: 7859827218186157108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_58
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 919
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe7907b6acce0a30800000000000000
+      internalID: 4183506120281259766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_59
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 922
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a99bfdd151db620800000000000000
+      internalID: 2791410562091293267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_60
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 922
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a3c9740e6f46f0800000000000000
+      internalID: -698218451717348256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_61
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 850
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1817081b46f2bd520800000000000000
+      internalID: 2727826108824187265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 849
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71afc8b1657e55d0800000000000000
+      internalID: -3071888833247207045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_63
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 854
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3612ec3e2052a9b50800000000000000
+      internalID: 6600628898206982499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_64
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 914
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f239087e77f9a940800000000000000
+      internalID: 5308045758384648949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_65
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 916
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e4bab82242da50800000000000000
+      internalID: 6544365951221294674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_66
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 912
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77c564268a915a30800000000000000
+      internalID: 4202309828240328574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_67
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 841
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8704c18f54f659970800000000000000
+      internalID: 8761030996425195640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_68
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 845
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33662d6af9e1a5e10800000000000000
+      internalID: 2187094240089237043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_69
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 855
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096ee66e6f586c50800000000000000
+      internalID: 6658676976845220096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_70
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 849
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c89ed8960b2730800000000000000
+      internalID: 3975278349723944136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_71
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 853
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ffa5522c6201d0800000000000000
+      internalID: -3386025075106908274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_72
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 846
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbe5aed7e51b58e0800000000000000
+      internalID: -1703743948412556325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 712
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5468fa22cd3611450800000000000000
+      internalID: 6057732770915911237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_74
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 711
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ff1d5220e3a4fd0800000000000000
+      internalID: -2357003276029657295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_75
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 709
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c2c0e09ba1fd050800000000000000
+      internalID: 5827405824947661968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_76
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 758
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd7e32964e3a4b80800000000000000
+      internalID: -8409840881338778177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_77
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 709
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a63a784fddedd010800000000000000
+      internalID: 1215389017709360800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_78
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 571
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68b3465698fc1790800000000000000
+      internalID: -7557892750058473365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_79
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 572
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af7b0f29b1f949a0800000000000000
+      internalID: -6248197230339326046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_80
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 571
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac1b7b8cd93c5480800000000000000
+      internalID: -8909182343449994078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_81
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 601
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4504d844c61bd0d0800000000000000
+      internalID: -3397096461629651633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_82
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 571
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efda4af0c696f8c00800000000000000
+      internalID: 905057962964594174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_83
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 581
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710661ee8929a4f40800000000000000
+      internalID: 5713540262800023575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 428
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a57264e0f5254960800000000000000
+      internalID: 7585510863929505189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_85
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 428
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c27620ba34735f30800000000000000
+      internalID: 4563118642868679363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_86
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 430
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81106912dbba5a90800000000000000
+      internalID: -7324335332921437809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_87
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 429
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e5dfd111685cb50800000000000000
+      internalID: 6612839035939151515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 295
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba414667c5bc945d0800000000000000
+      internalID: -3077705272347323221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_89
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 295
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef08f83418851b30800000000000000
+      internalID: 4257458643185176544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_90
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 293
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625d33732e9bc0090800000000000000
+      internalID: -8066868451287509722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_91
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 293
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a2f85ee730574b0800000000000000
+      internalID: -5443440731055248838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_92
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 286
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dd72d7b98c2bef0800000000000000
+      internalID: -93792072076108399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_93
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 287
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef11210435c5a3a0800000000000000
+      internalID: -6654696047222120477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_94
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 167
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ba164face4d25f0800000000000000
+      internalID: -779880526874825889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_95
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 166
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a299e9f486ef940800000000000000
+      internalID: 5331813700025789011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_96
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 235
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888aa68e89570f4d0800000000000000
+      internalID: -3102850843663488888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_97
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 161
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963972b01de905e40800000000000000
+      internalID: 5643184953767727977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_98
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 158
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4493189bbd47115e0800000000000000
+      internalID: -1940641477361059516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_99
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 147
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d65f1cd2d49d3580800000000000000
+      internalID: -8845750459728701738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_100
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 157
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a78435edbad5f00800000000000000
+      internalID: 1107230054771358344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 151
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73944270ff3318050800000000000000
+      internalID: 5800974965459405111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_102
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 14
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816d9867b3df0d340800000000000000
+      internalID: 4886684027530630680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_103
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 14
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f415e8e6faba40800000000000000
+      internalID: 5384887784611051118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_104
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 14
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd49f5d8ab83820800000000000000
+      internalID: 2898271476569660650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adt_minotaur_shaman_105
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 19
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c85d9bc3d39aa80800000000000000
+      internalID: -8455159494386283455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
