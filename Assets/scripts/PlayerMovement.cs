@@ -2,53 +2,75 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+public enum PlayerState{
+walk,
+attack,
+interact
+}
+
 public class PlayerMovement : MonoBehaviour
 {
-    [Range(5f,20f)]
-    public float speed = 10f;
-    private Animator anim;
-    [Range(10f,100f)]
-    public AnimationCurve objScale;
-    float timer, lerpTime = 3f;
-    Vector2 scale, endScale = new Vector3(2,2,1);
+    // Start is called before the first frame update
+    public PlayerState currentState;
+    public float speed;
+    private Rigidbody2D myRigidBody;
+    private Vector3 change;
+    private Animator animator;
     void Start()
     {
-        scale = transform.localScale;
-        anim = GetComponent<Animator>();
-      
+        currentState = PlayerState.walk;
+        animator = GetComponent<Animator>(); 
+        animator.SetFloat("moveX", 0);
+        animator.SetFloat("moveY", -1); 
+
+        myRigidBody = GetComponent<Rigidbody2D>();
     }
+
+    // Update is called once per frame
     void Update()
     {
-        timer += Time.deltaTime;
-        if(timer > lerpTime)
-        {
-            timer = lerpTime;
-        }
-        float lerpRatio = timer / lerpTime;
-        transform.localScale = Vector3.Lerp(scale,endScale,lerpRatio);
-        Vector3 movement = GetInput();
-        transform.Translate(movement.normalized*speed*Time.deltaTime);
-        anim.SetFloat("MoveX",movement.x);
-        anim.SetFloat("MoveY",movement.y);
+        change = Vector2.zero;
+        change.x = Input.GetAxisRaw("Horizontal");
+        change.y = Input.GetAxisRaw("Vertical");
 
+        if(Input.GetButtonDown("attack") && currentState != PlayerState.attack)
+        {
+            StartCoroutine(AttackCo());
+        }
+
+        else if(currentState == PlayerState.walk)
+        {
+            UpdateAnimationAndMove();
+        }
     }
 
-    Vector3 GetInput()
-    { 
-        Vector3 p_Velocity = new Vector3();
-        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow)){
-            p_Velocity += Vector3.up;
-        }
-        if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow)){
-            p_Velocity += Vector3.down;
-        }
-        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow)){
-            p_Velocity += Vector3.left;
-        }
-        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow)){
-            p_Velocity += Vector3.right;
-        }
+    private IEnumerator AttackCo()
+    {
+        animator.SetBool("attacking", true);
+        currentState = PlayerState.attack;
+        yield return null; // wait one frame
+        animator.SetBool("attacking", false);
+        yield return new WaitForSeconds(.3f);
+        currentState = PlayerState.walk;
+    }
 
-        return p_Velocity;
+    void UpdateAnimationAndMove()
+    {
+        if(change != Vector3.zero){
+            MoveCharacter();
+            animator.SetFloat("moveX", change.x);
+            animator.SetFloat("moveY", change.y);
+            animator.SetBool("moving", true);
+        }
+        else{
+            animator.SetBool("moving", false);
+        }
+    }
+
+    void MoveCharacter()
+    {
+        myRigidBody.MovePosition(
+            transform.position + change.normalized * speed * Time.deltaTime
+        );
     }
 }
