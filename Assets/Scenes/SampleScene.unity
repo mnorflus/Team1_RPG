@@ -4838,9 +4838,10 @@ GameObject:
   - component: {fileID: 654126857}
   - component: {fileID: 654126861}
   - component: {fileID: 654126860}
+  - component: {fileID: 654126862}
   m_Layer: 0
   m_Name: log
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4923,7 +4924,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 654126856}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3, y: -4.42, z: 0}
+  m_LocalPosition: {x: 5.48, y: -4.42, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -4963,7 +4964,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 654126856}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -4973,9 +4974,30 @@ Rigidbody2D:
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
-  m_SleepingMode: 1
+  m_SleepingMode: 0
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &654126862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654126856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8dfdfe967c3ed041b92af8b53ff85c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentState: 0
+  health: 2
+  enemyName: Larry the Log
+  baseAttack: 1
+  moveSpeed: 1.5
+  target: {fileID: 0}
+  chaseRadius: 4
+  attackRadius: 1
+  homePosition: {fileID: 0}
 --- !u!4 &824270750 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1257114159282244773, guid: 0ac4be4a256aa0d4a9fa2820e12f8237, type: 3}
@@ -5121,6 +5143,25 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
+--- !u!1 &1075270688 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1257114159282244776, guid: 0ac4be4a256aa0d4a9fa2820e12f8237, type: 3}
+  m_PrefabInstance: {fileID: 1257114159480680397}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1075270694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1075270688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf44fe962e4c9a9479fd52101cf364b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrust: 5000
+  knockTime: 1
 --- !u!1001 &1129790666
 PrefabInstance:
   m_ObjectHideFlags: 0
