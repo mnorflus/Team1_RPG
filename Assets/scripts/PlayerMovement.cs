@@ -5,7 +5,8 @@ using UnityEngine;
 public enum PlayerState{
 walk,
 attack,
-interact
+interact,
+stagger
 }
 
 public class PlayerMovement : MonoBehaviour
@@ -33,7 +34,8 @@ public class PlayerMovement : MonoBehaviour
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
 
-        if(Input.GetButtonDown("attack") && currentState != PlayerState.attack)
+        if(Input.GetButtonDown("attack") && currentState != PlayerState.attack
+            && currentState != PlayerState.stagger)
         {
             StartCoroutine(AttackCo());
         }
@@ -73,4 +75,22 @@ public class PlayerMovement : MonoBehaviour
             transform.position + change.normalized * speed * Time.deltaTime
         );
     }
+
+    public void Knock(float knockTime)
+    {
+        StartCoroutine(KnockCo(knockTime));
+    }
+
+    private IEnumerator KnockCo(float knockTime)
+    {
+        if(myRigidBody != null)
+        {
+            //Debug.Log("velocity: " + myRigidBody.velocity);
+            yield return new WaitForSeconds(knockTime);
+            myRigidBody.velocity = Vector2.zero;
+            currentState = PlayerState.walk;
+            //Debug.Log("velocity: " + enemy.velocity);
+        }
+    }
+
 }

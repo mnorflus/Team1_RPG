@@ -197,9 +197,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 76989394}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58ae900446e05594a8bb36f65cacf48c, type: 3}
+  m_Script: {fileID: 11500000, guid: cf44fe962e4c9a9479fd52101cf364b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  thrust: 4000
+  knockTime: 0.2
 --- !u!1001 &83044817
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -338,9 +340,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 162049940}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58ae900446e05594a8bb36f65cacf48c, type: 3}
+  m_Script: {fileID: 11500000, guid: cf44fe962e4c9a9479fd52101cf364b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  thrust: 4000
+  knockTime: 0.2
 --- !u!1 &320154273 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6493005648932114362, guid: 3b43f3bef72dd5f478d9692bb0556cd2, type: 3}
@@ -4839,6 +4843,8 @@ GameObject:
   - component: {fileID: 654126861}
   - component: {fileID: 654126860}
   - component: {fileID: 654126862}
+  - component: {fileID: 654126863}
+  - component: {fileID: 654126864}
   m_Layer: 0
   m_Name: log
   m_TagString: enemy
@@ -4993,11 +4999,51 @@ MonoBehaviour:
   health: 2
   enemyName: Larry the Log
   baseAttack: 1
-  moveSpeed: 1.5
+  moveSpeed: 1
   target: {fileID: 0}
   chaseRadius: 4
-  attackRadius: 1
+  attackRadius: 0.8
   homePosition: {fileID: 0}
+--- !u!61 &654126863
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654126856}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.013292313, y: -0.11630845}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8302698, y: 1.3951955}
+  m_EdgeRadius: 0
+--- !u!114 &654126864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654126856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf44fe962e4c9a9479fd52101cf364b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrust: 2
+  knockTime: 0.2
 --- !u!4 &824270750 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1257114159282244773, guid: 0ac4be4a256aa0d4a9fa2820e12f8237, type: 3}
@@ -5148,20 +5194,32 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1257114159282244776, guid: 0ac4be4a256aa0d4a9fa2820e12f8237, type: 3}
   m_PrefabInstance: {fileID: 1257114159480680397}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1075270694
-MonoBehaviour:
+--- !u!61 &1075270689
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1075270688}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cf44fe962e4c9a9479fd52101cf364b1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  thrust: 5000
-  knockTime: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.009214163, y: -0.06707668}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 2}
+    newSize: {x: 1, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.7697625, y: 1.0710306}
+  m_EdgeRadius: 0
 --- !u!1001 &1129790666
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10034,9 +10092,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1367610168}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58ae900446e05594a8bb36f65cacf48c, type: 3}
+  m_Script: {fileID: 11500000, guid: cf44fe962e4c9a9479fd52101cf364b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  thrust: 4000
+  knockTime: 0.2
 --- !u!1 &1402363744
 GameObject:
   m_ObjectHideFlags: 0
@@ -12550,9 +12610,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1657762461}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58ae900446e05594a8bb36f65cacf48c, type: 3}
+  m_Script: {fileID: 11500000, guid: cf44fe962e4c9a9479fd52101cf364b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  thrust: 4000
+  knockTime: 0.2
 --- !u!114 &1720776709 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6493005646977424670, guid: 3b43f3bef72dd5f478d9692bb0556cd2, type: 3}
@@ -14556,13 +14618,21 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 6200000, guid: f1f8bfa1a5c1ea64d9501a51364d6673, type: 2}
+    - target: {fileID: 1257114159282244772, guid: 0ac4be4a256aa0d4a9fa2820e12f8237, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.41589618
+      objectReference: {fileID: 0}
+    - target: {fileID: 1257114159282244772, guid: 0ac4be4a256aa0d4a9fa2820e12f8237, type: 3}
+      propertyPath: m_Size.y
+      value: 0.2371087
+      objectReference: {fileID: 0}
     - target: {fileID: 1257114159282244773, guid: 0ac4be4a256aa0d4a9fa2820e12f8237, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.77
+      value: 1.6
       objectReference: {fileID: 0}
     - target: {fileID: 1257114159282244773, guid: 0ac4be4a256aa0d4a9fa2820e12f8237, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.48
+      value: -6.95
       objectReference: {fileID: 0}
     - target: {fileID: 1257114159282244773, guid: 0ac4be4a256aa0d4a9fa2820e12f8237, type: 3}
       propertyPath: m_LocalPosition.z
